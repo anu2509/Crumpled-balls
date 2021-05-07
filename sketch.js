@@ -34,7 +34,7 @@ function draw() {
   background(230);
  
   
-  keyPressed();
+ 
 
   groundObject.display();
   paper.display();
